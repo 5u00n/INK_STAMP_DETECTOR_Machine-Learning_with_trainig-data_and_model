@@ -1,0 +1,12 @@
+names:
+- Ink-stamps
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: ink-stamp-detector
+  url: https://universe.roboflow.com/suren/ink-stamp-detector/dataset/3
+  version: 3
+  workspace: suren
+test: test/images
+train: train/images
+val: valid/images
