@@ -16,3 +16,14 @@ scan_stamps.zip
 
 yolov8n.pt
 yolov8s.pt
+
+image_files
+
+datasets
+content
+
+output-marked_img
+files_to_scan
+
+weights
+datasets/datasets

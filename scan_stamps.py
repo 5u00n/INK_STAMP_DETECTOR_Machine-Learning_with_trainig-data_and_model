@@ -1,7 +1,7 @@
 from PIL import Image,ImageDraw,ImageFont
 from ultralytics import YOLO
 
-model = YOLO('./weights/last.pt')
+model = YOLO('./runs/detect/train2/weights/best.pt')
 
 img_path = './POD1.PNG'
 img = Image.open(img_path).convert('RGB')
